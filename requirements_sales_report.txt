@@ -1,0 +1,27 @@
+# ── Browser automation ─────────────────────────
+selenium
+webdriver-manager
+
+# ── Data processing ────────────────────────────
+pandas
+numpy
+openpyxl
+
+# ── Charting ───────────────────────────────────
+matplotlib
+scipy
+
+# ── Authentication ─────────────────────────────
+pyotp
+
+# ── Environment / credentials ──────────────────
+python-dotenv
+
+# ── Windows / Outlook integration ─────────────
+# Note: pywin32 is Windows-only
+pywin32
+
+# ── Standard library (no install needed) ───────
+# os, sys, time, glob, shutil, csv, io, math,
+# re, tempfile, logging, atexit, traceback,
+# datetime, pathlib
